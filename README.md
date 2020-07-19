@@ -1,8 +1,7 @@
 # ML-MT-WebApp
 
 <img src="https://www.elderresearch.com/hubfs/BLOG_Parkinson%E2%80%99s%20Test%20Recommendation%20Engine.jpg" width="1100" height="200" />
-<p> This is one of major project of my undergraduate degree program.</p>
-<p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
+<p>Here, We have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
 <h3> Down below are the names of the various model files used:</h3>
