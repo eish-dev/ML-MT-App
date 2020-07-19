@@ -16,13 +16,7 @@
 <li><p><b>Malaria model = model111.h5</b></p></li>
 <li><p><b>Pneumonia model = my_model.h5</b></p></li>
 </ul>
-<hr>
 
-<h3> Kernals used for training deep learning model </h3>
-<ul>
-<li><p><b>Kernal for Malaria model :</b>https://www.kaggle.com/shobhit18th/malaria-cell</p></li>
-
-<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/shobhit18th/keras-nn-x-ray-predict-pneumonia-86-54</p></li>
 <hr>
 </ul>
 
